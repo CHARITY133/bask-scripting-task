@@ -1,1 +1,1 @@
-bask script
+echo my name > file.txt
