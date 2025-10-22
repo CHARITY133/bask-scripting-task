@@ -1,1 +1,1 @@
-echo my name > file.txt
+echo my name charity Amaka kalu > file.txt
